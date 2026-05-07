@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/usq4p7xj/raw"))()
+what are you doing here skid
